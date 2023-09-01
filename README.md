@@ -1,3 +1,3 @@
 #Nwittter
 
-Twitter (mini)clone with React and Firebase
+리액트와 파이어베이스를 사용한 트위터 미니 클론코딩
